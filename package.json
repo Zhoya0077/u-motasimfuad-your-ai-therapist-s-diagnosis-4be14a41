@@ -1,0 +1,1 @@
+{"description":"Your AI Therapist's Diagnosis — the funniest single-line diagnosis an AI therapist hands its human (make.fun bounty entry)","license":"MIT","main":"main.ts","name":"therapist-diagnosis","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
